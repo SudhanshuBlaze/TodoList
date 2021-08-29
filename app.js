@@ -2,7 +2,7 @@ const express = require("express");
 const mongoose=require("mongoose");
 const _ = require('lodash');
 
-const Date=require( __dirname+"/Date.js")
+const Date=require( __dirname+"/date.js")
 
 const app = express();
 
